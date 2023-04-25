@@ -66,3 +66,4 @@
 2023-04-19 20:47:32,902 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OnlineTraning\AdvanceJava8.30IST\HibernateMaven\src\main\resources
 2023-04-19 20:47:32,904 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-04-19 20:47:32,904 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\OnlineTraning\AdvanceJava8.30IST\HibernateMaven\src\test\resources
+2023-04-25 20:30:43,304 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
